@@ -1,4 +1,5 @@
-# pub-2017-optik-kernel-coarse-to-fine
+# Using Kernel Sparse Representation to Perform Coarse-to-Fine Recognition of Face Images
+
 Connected domain: http://www.zengsn.com
 
 ```  
